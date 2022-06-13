@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+This project is my starting point for my Flutter application growth.
+In this project, i began the implementation of the skills i learnt from classes taken to develop the User Interface for a Tip Calculator.
+This tip calculator is used to calculate the amount of tip and total amount payable at a service center based on a specified percentage.
+This app also caters for the amount payable by each individual of a group responsible for making payment.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is my First Flutter application. 
