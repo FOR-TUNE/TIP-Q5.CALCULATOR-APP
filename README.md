@@ -7,4 +7,4 @@ In this project, i began the implementation of the skills i learnt from classes 
 This tip calculator is used to calculate the amount of tip and total amount payable at a service center based on a specified percentage.
 This app also caters for the amount payable by each individual of a group responsible for making payment.
 
-This is my First Flutter application. 
+This is my First Flutter project. 
